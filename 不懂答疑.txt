@@ -1,0 +1,6 @@
+docker run -p 3306:3306 --name mysql -e MYSQL_ROOT_PASSWORD=123456LM1 -d mysql:8.0.24
+
+dc6699c5-a063-43b2-9695-bae9e571bcbd
+
+vscode解决访问不了：
+cd D:\VScode\ruoyi_cloud\plus-ui
